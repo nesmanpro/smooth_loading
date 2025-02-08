@@ -5,8 +5,9 @@
 This project implements a smooth loading screen using Framer Motion, ensuring a seamless transition between the loading animation and the main content. The animation leverages LayoutGroup, AnimatePresence, and motion components to handle layout animations efficiently.
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![FramerMotion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![FramerMotion](https://img.shields.io/badge/Framer_Motion-20232A?style=for-the-badge&logo=framer&logoColor=white)]()
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
 
 ![Project Screenshot](./public/screenshot1.webp)
 
