@@ -10,7 +10,7 @@ This project implements a smooth loading screen using Framer Motion, ensuring a 
 
 ![Project Screenshot](./public/screenshot1.webp)
 
-##Motivation
+## Motivation
 
 This project was developed to explore Framer Motion 5 and its optimized animation handling. It replaces the deprecated AnimateSharedLayout with LayoutGroup, ensuring smoother and more performant layout animations. The goal was to achieve an elegant transition from the loading screen to the main content without layout thrashing.
 
